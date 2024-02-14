@@ -1,0 +1,15 @@
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\bin\Debug\net8.0\Business.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Business\obj\Debug\net8.0\ref\Business.dll

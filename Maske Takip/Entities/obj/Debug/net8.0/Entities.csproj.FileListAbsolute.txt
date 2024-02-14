@@ -1,0 +1,11 @@
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\emrha\Desktop\Yazılım Geliştirici Yetiştirme Kampı Kodlama io\Maske Takip\Maske Takip\Entities\obj\Debug\net8.0\ref\Entities.dll
